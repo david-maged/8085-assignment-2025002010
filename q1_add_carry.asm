@@ -1,3 +1,6 @@
+; Name: David Maged Reyad Ayoub
+; ID: 2025002010
+
 lda 2500h
 mov b, a
 LDA 2501H
